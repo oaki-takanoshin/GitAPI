@@ -16,7 +16,8 @@ public class FileCopyPractice {
             return;
         }
         try {
-            // コピー元ファイル名のオープン
+            // コピー元ファイル名のオープン〇
+            
             br = new BufferedReader(new FileReader(args[0]));
             // コピー先ファイル名のオープン
             pw = new PrintWriter(new BufferedWriter(new FileWriter(args[1])));
