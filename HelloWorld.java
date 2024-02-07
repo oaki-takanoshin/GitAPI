@@ -1,5 +1,9 @@
 package test2;
-
+/**
+ * 	ハローワールドクスラス
+ * 
+ * 
+ */
 class HelloWorld {
     public static void main(String[] args) {
         String msg = "Hello, World!";
