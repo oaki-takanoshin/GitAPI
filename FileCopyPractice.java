@@ -7,6 +7,11 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+/**
+ * asdsee
+ * @author 0423
+ *
+ */
 public class FileCopyPractice {
     public static void main(String[] args) {
         BufferedReader br = null;
