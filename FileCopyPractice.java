@@ -14,6 +14,8 @@ import java.io.PrintWriter;
  */
 public class FileCopyPractice {
     public static void main(String[] args) {
+    	
+    	//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         BufferedReader br = null;
         PrintWriter pw = null;
         if(args.length != 2) {
